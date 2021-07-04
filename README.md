@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @46294629
-- 👀 I’m interested in c++, python, go
-- 🌱 I’m currently learning c++, go
-- 💞️ I’m looking to collaborate on cloud block storage
+- 👀 I’m using c++, python, go at work, c++ is major
+- 🌱 I’m working on cloud block strorage
 - 📫 How to reach me 846295219@qq.com
 
 <!---
